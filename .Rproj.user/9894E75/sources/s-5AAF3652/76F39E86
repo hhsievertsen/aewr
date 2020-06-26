@@ -1,0 +1,32 @@
+{
+    "id": "76F39E86",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1593164774648.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "expression": "exdata1",
+        "caption": "exdata1",
+        "totalObservations": 491,
+        "displayedObservations": 491,
+        "variables": 15,
+        "cacheKey": "B647BA7C",
+        "object": "exdata1",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=exdata1&cache_key=B647BA7C&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 8313484861770130290,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1593164774648,
+    "read_only": false,
+    "read_only_alternatives": []
+}
