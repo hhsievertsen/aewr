@@ -1,4 +1,9 @@
-"0","library(learnr)"
+"0","library(learnr)
+"
+"2","Registered S3 method overwritten by 'htmlwidgets':
+  method           from         
+  print.htmlwidget tools:rstudio
+"
 "0","library(tidyverse)"
 "2","Registered S3 methods overwritten by 'dbplyr':
   method         from
@@ -19,4 +24,3 @@
 "
 "0","library(shinythemes)"
 "0","library(aewr)"
-"0","knitr::opts_chunk$set(echo = FALSE,cache=TRUE)"

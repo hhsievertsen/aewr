@@ -7,7 +7,7 @@
 #'
 #' @docType data
 #'
-#' @usage data(exdata1)
+#' @usage data(wid_data_uk_t1)
 #'
 #' @format An object of class \code{"cross"}; see \code{\link[qtl]{read.cross}}.
 #'
@@ -19,6 +19,6 @@
 #' @source \href{https://phenome.jax.org/projects/Moore1b}{QTL Archive}
 #'
 #' @examples
-#' data(exdata1)
+#' data(wid_data_uk_t1)
 
-"exdata1"
+"wid_data_uk_t1"
