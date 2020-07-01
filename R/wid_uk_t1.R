@@ -19,6 +19,6 @@
 #' @source \href{https://phenome.jax.org/projects/Moore1b}{QTL Archive}
 #'
 #' @examples
-#' data(wid_data_uk_t1)
+#' data(wid_uk_t1)
 
-"wid_data_uk_t1"
+"wid_uk_t1"
