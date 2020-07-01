@@ -1,24 +1,24 @@
 {
-    "id": "47E74223",
-    "path": "C:/Github/aewr/R/wid_uk_b50.R",
-    "project_path": "R/wid_uk_b50.R",
+    "id": "4D892524",
+    "path": "C:/Github/aewr/R/wid_wo_b50.R",
+    "project_path": "R/wid_wo_b50.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "527744425",
     "contents": "",
     "dirty": false,
-    "created": 1593596282068.0,
+    "created": 1593596276577.0,
     "source_on_save": false,
-    "relative_order": 5,
+    "relative_order": 4,
     "properties": {
         "cursorPosition": "9,25",
         "scrollLine": "1"
     },
     "folds": "",
-    "lastKnownWriteTime": 1593596287,
+    "lastKnownWriteTime": 1593596279,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1593596287093,
+    "last_content_update": 1593596279612,
     "read_only": false,
     "read_only_alternatives": []
 }
