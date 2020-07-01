@@ -1,26 +1,25 @@
 {
-    "id": "F5574634",
-    "path": "C:/Users/hs17922/Dropbox/Log/mylog.Rmd",
+    "id": "2DECC476",
+    "path": "C:/Github/R_introduction/archive.Rmd",
     "project_path": null,
     "type": "r_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1593594644438.0,
+    "created": 1593595810798.0,
     "source_on_save": false,
-    "relative_order": 2,
+    "relative_order": 3,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "21,0",
-        "scrollLine": "6",
-        "last_setup_crc32": ""
+        "cursorPosition": "22,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1593595625,
+    "lastKnownWriteTime": 1593596958,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1593595625350,
+    "last_content_update": 1593596958238,
     "read_only": false,
     "read_only_alternatives": []
 }
