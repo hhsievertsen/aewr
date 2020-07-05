@@ -1,3 +1,0 @@
-"0","wid_data<-wid_uk_t1"
-"0","ggplot(data=wid_data,aes(x=Year,y=Income_share))+geom_line()"
-"0",""

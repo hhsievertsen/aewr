@@ -1,3 +1,0 @@
-applied_econ_with_r<-function(){
-  print("This package contains the following data sets:")
-}
