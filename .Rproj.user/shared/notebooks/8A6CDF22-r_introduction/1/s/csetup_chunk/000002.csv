@@ -1,5 +1,0 @@
-"0","library(learnr)"
-"0","library(tidyverse)"
-"0","library(shinythemes)"
-"0","library(aewr)"
-"0","knitr::opts_chunk$set(echo = FALSE,cache=TRUE)"
