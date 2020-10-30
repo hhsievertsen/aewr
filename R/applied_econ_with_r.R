@@ -14,3 +14,5 @@ applied_econ_with_r<-function(){
 # mpd<-mpd%>%mutate(gdp_per_capita=gdp/pop)%>%rename(region=country)%>%select(-pop,-gdp)%>%filter(!is.na(gdp_per_capita))
 
 #.
+# q78<-read_csv("qd78.csv")
+# save(q78, file="data/q78.RData")
