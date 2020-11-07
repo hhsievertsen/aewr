@@ -19,3 +19,6 @@ applied_econ_with_r<-function(){
 # save(school_data_selected, file="school_data_selected.RData")
 # save(school_data_merged, file="school_data_merged.RData")
 # save(school_data_tidy, file="school_data_tidy.RData")
+# save(school_data_1, file="school_data_1.RData")
+# save(school_data_2, file="school_data_2.RData")
+# save(school_data_3, file="school_data_3.RData")
