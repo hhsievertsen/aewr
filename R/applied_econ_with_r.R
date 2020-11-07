@@ -15,4 +15,4 @@ applied_econ_with_r<-function(){
 
 #.
 # q78<-read_csv("qd78.csv")
-# save(q78, file="data/q78.RData")
+# save(analysisdata, file="analysisdata.RData")
