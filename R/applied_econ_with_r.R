@@ -13,7 +13,7 @@ applied_econ_with_r<-function(){
 # mpd<-rbind(mpd,dfa)
 # mpd<-mpd%>%mutate(gdp_per_capita=gdp/pop)%>%rename(region=country)%>%select(-pop,-gdp)%>%filter(!is.na(gdp_per_capita))
 
-#.setwd("C:/Github/aewr/data")
+#setwd("C:/Github/aewr/data")
 # q78<-read_csv("qd78.csv")
 # save(analysisdata, file="analysisdata.RData")
 # save(school_data_selected, file="school_data_selected.RData")
