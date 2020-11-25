@@ -21,5 +21,5 @@ applied_econ_with_r<-function(){
 # save(school_data_tidy, file="school_data_tidy.RData")
 # save(school_data_1, file="school_data_1.RData")
 # save(school_data_2, file="school_data_2.RData")
-#widq<-df
-# save(widq, file="widq.RData")
+#wbdata<-df
+# save(wbdata, file="wbdata.RData")
