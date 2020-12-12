@@ -23,3 +23,5 @@ applied_econ_with_r<-function(){
 # save(school_data_2, file="school_data_2.RData")
 #wbdata<-df
 # save(wbdata, file="wbdata.RData")
+# save(ir, file="ir.RData")
+# save(er, file="er.RData")
