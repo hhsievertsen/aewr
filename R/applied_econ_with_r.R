@@ -25,3 +25,12 @@ applied_econ_with_r<-function(){
 # save(widq, file="widq.RData")
 # save(ir, file="ir.RData")
 # save(er, file="er.RData")
+
+
+#task2b<-read_csv("task2data_b.csv")
+#save(task2a,file="task2b.RData")
+
+
+#task1<-read_csv("task1data.csv")%>%
+#          filter(MEASURE=="VOB")%>%
+#   select(-LOCATION,-Measure,-TIME,-TRANSACT,-PowerCode,-`PowerCode Code`,-`Unit`, `Unit Code`, -Flags, -`Flag Codes`, -`Reference Period Code`,-`Reference Period`)
