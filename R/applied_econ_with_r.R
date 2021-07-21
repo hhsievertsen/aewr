@@ -16,6 +16,8 @@ applied_econ_with_r<-function(){
 #setwd("C:/Github/aewr/data")
 # q78<-read_csv("qd78.csv")
 # save(analysisdata, file="analysisdata.RData")
+#save(schooldata, file="schooldata.RData")
+#save(schooldata_updated, file="schooldata_updated.RData")
 # save(school_data_selected, file="school_data_selected.RData")
 # save(school_data_merged, file="school_data_merged.RData")
 # save(school_data_tidy, file="school_data_tidy.RData")
